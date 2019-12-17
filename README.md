@@ -1,4 +1,7 @@
 # Plot_WaterLevel
+
+Author: L. Zawadzki (CLS)
+
 Sample code for reading and plotting the time series of Lake or River Water Level
 observations.
 
